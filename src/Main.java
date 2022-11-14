@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        System.out.println(" Заданиие 2.0 ");
         var dog = 8.0;
         System.out.println(dog);
         var cat = 3.6;
@@ -18,5 +19,6 @@ public class Main {
         System.out.println(cat);
         paper = paper - 7639;
         System.out.println(paper);
+
     }
 }
